@@ -1,4 +1,8 @@
 mnist/
+climate/
+carvana/
+carvana/train
+carvana/train_masks
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
